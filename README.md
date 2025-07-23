@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, i'm Ali Ghimar Budiana
 
 <!--
 **Tanjidoru/Tanjidoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi, I’m  Ali Ghimar Budiana<br>🎓 I’m a university student aspiring to become a Software Engineer  <br>💻 Currently learning Python, HTML, JavaScript, and CSS  <br>🌱 Still a beginner in programming but eager to improve every day  <br>🔧 Practicing by building small projects to grow my skills  <br>🤝 Open to learning from others and collaborating on beginner-friendly projects  <br>🎯 Goal: Master programming fundamentals and become a professional Software Engineer
+🎓 I’m a university student aspiring to become a Software Engineer  <br>💻 Currently learning Python, HTML, JavaScript, and CSS  <br>🌱 Still a beginner in programming but eager to improve every day  <br>🔧 Practicing by building small projects to grow my skills  <br>🤝 Open to learning from others and collaborating on beginner-friendly projects  <br>🎯 Goal: Master programming fundamentals and become a professional Software Engineer
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tanjidoru&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
